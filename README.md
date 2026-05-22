@@ -1,36 +1,14 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🐱 PRO MEMORY 50: Cyber-Cat Edition
 
-## Getting Started
+Сучасний інтерактивний веб-тренажер короткострокової пам'яті, розроблений на базі **Next.js** та **Tailwind CSS**. 
 
-First, run the development server:
+### 🚀 Головна фішка проєкту (Killer Hook)
+Ви граєте не просто зі статичним полем, а змагаєтесь у реальному часі проти **Кібера-Кота (ШІ-бота)**! 
+Бот грає швидко, вміє рахувати карти і не прощає помилок. Щоб гра була чесною, Кіт дає вам **фору в 10 секунд**, після чого починає атаку на ігрове поле. Протягом усієї гри бот динамічно коментує ваші дії, створюючи атмосферу справжнього кіберспортивного поєдинку.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### 🎮 Функціонал MVP:
+- Велике ігрове поле на 50 карток (25 унікальних пар емодзі).
+- Розумний автономний суперник (Кіт-бот).
+- Динамічний відлік часу, підрахунок ходів (Moves) та помилок (Mistakes).
+- Адаптивний Cyberpunk-інтерфейс із Backdrop Blur ефектами.
+- Екран тріумфу при успішному зборі всіх пар швидше за бота.
